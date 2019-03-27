@@ -1,2 +1,2 @@
 # PB-PHOENIXLauncher
-ไม่รู้ src อะไร มีคนขอให้แฮกมาให้หน่อย
+Sorry, I don't speak TROJAN, I speak APT Botnet.
