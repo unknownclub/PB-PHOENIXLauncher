@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\PBLauncher.exe
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\DotNetZip.dll
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\p2qlx.dll
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\PBLauncher.exe
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\PBLauncher.pdb
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\Point_Blank_Launcher.Connection.resources
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\Properties.Resources.resources
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\Point_Blank_Launcher.Launcher.resources

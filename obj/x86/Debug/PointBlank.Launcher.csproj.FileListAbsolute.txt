@@ -1,0 +1,37 @@
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\PBLauncher.exe
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\DotNetZip.dll
+C:\Users\User\Desktop\Point_Blank_Launcher\bin\Debug\p2qlx.dll
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\Point_Blank_Launcher.Connection.resources
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\Point_Blank_Launcher.Launcher.resources
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\Properties.Resources.resources
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\PointBlank.Launcher.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\PBLauncher.exe
+C:\Users\User\Desktop\Point_Blank_Launcher\obj\x86\Debug\PBLauncher.pdb
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.exe.config
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.exe
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.pdb
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\obj\x86\Debug\Point_Blank_Launcher.Connection.resources
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\obj\x86\Debug\Point_Blank_Launcher.Launcher.resources
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\obj\x86\Debug\Properties.Resources.resources
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\obj\x86\Debug\PointBlank.Launcher.csproj.GenerateResource.Cache
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\obj\x86\Debug\PBLauncher.exe
+D:\Games\Editor(C#)\PointBlank Server\PointBlank.Launcher\PointBlank.Launcher\obj\x86\Debug\PBLauncher.pdb
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PointBlank.Launcher.csprojResolveAssemblyReference.cache
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PointBlank.Launcher.Connection.resources
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PointBlank.Launcher.Launcher.resources
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PointBlank.Launcher.Properties.Resources.resources
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PointBlank.Launcher.csproj.GenerateResource.Cache
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.exe.config
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.exe.manifest
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.application
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.exe
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\bin\Debug\PBLauncher.pdb
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PBLauncher.TrustInfo.xml
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PBLauncher.exe.manifest
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PBLauncher.application
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PBLauncher.exe
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\obj\x86\Debug\PBLauncher.pdb
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\bin\Debug\KuyRaiHook.dll
+D:\Games\Editor(C#)\Source PointBlank Launcher\PointBlank.Launcher\bin\Debug\KuyRaiHook.pdb

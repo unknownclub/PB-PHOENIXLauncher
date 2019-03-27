@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{60B0489D-9ACD-47C3-A75D-BD5BC1B39CD2}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>PHOENIXLauncher</AssemblyName>
+    <OutputType>WinExe</OutputType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisIgnoreGeneratedCode>true</CodeAnalysisIgnoreGeneratedCode>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <DocumentationFile>
+    </DocumentationFile>
+    <LangVersion>default</LangVersion>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <FileAlignment>512</FileAlignment>
+    <NoWarn>
+    </NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\PB-Ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>PointBlank.Launcher</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PointBlank.Launcher.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <LangVersion>default</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Compile Include="cHWID.cs" />
+    <Compile Include="Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Launcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Launcher.Designer.cs">
+      <DependentUpon>Launcher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modul.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Version.cs" />
+    <EmbeddedResource Include="Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Launcher.resx">
+      <DependentUpon>Launcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Reference Include="KuyRaiHook, Version=1.0.0.6, Culture=neutral, PublicKeyToken=519f71fc62a6cdcd, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\KuyRaiHook.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\Start_BG.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Closed_Normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Closed_Over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hide_Normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hide_Over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UPDATE.exe" />
+    <None Include="Resources\String_Thai.dll" />
+    <None Include="Resources\PHOENIX.exe" />
+    <None Include="Resources\PBPHOENIX.exe" />
+    <None Include="Resources\zlib1.dll" />
+    <None Include="zlib1.dll" />
+    <None Include="String_Thai.dll" />
+    <None Include="Resources\pn_login.jpg" />
+    <None Include="Resources\Update_Over.bmp" />
+    <None Include="Resources\Update_Normal.bmp" />
+    <None Include="Resources\Start_Over.bmp" />
+    <None Include="Resources\Start_Normal.bmp" />
+    <None Include="Resources\Start_Disable.png" />
+    <None Include="Resources\15934446_356070298108696_1200497767_n.png" />
+    <None Include="Resources\15941907_592483340936756_95916531_n.png" />
+    <None Include="Resources\Check_Disable.png" />
+    <None Include="Resources\Check_Normal.png" />
+    <None Include="Resources\Check_Over.png" />
+    <None Include="Resources\Pause_Disable.png" />
+    <None Include="Resources\Pause_Normal.png" />
+    <None Include="Resources\Pause_Over.png" />
+    <None Include="Resources\15934446_356070298108696_1200497767_n.bmp" />
+    <None Include="Resources\BG_ONRIGINAL.bmp" />
+    <None Include="Resources\Login_Normal.bmp" />
+    <None Include="Resources\Login_Over.bmp" />
+    <None Include="Resources\Login_Disable.bmp" />
+    <None Include="Resources\bg.jpg" />
+    <None Include="Resources\btn_web1.jpg" />
+    <None Include="Resources\btn_start.jpg" />
+    <None Include="Resources\btn_web021.jpg" />
+    <None Include="Resources\btn_start02.jpg" />
+    <None Include="Resources\btn_login02.jpg" />
+    <None Include="Resources\btn_start03.jpg" />
+    <None Include="Resources\btn_update02.jpg" />
+    <None Include="Resources\btn_update03.jpg" />
+    <None Include="PBPHOENIX.exe" />
+    <None Include="PHOENIX.exe" />
+    <None Include="Resources\back_login.png" />
+    <None Include="Resources\btn_lg2.png" />
+    <None Include="Resources\btn_ud2.png" />
+    <None Include="Resources\back_starting.png" />
+    <None Include="Resources\bg_update.jpg" />
+    <None Include="Resources\btn_stl.jpg" />
+    <None Include="Resources\btn_stlh.jpg" />
+    <None Include="Resources\btn_lg3.jpg" />
+    <None Include="Resources\btn_regl.jpg" />
+    <None Include="bin\Release\UPDATE.exe" />
+    <None Include="Resources\btn_ud3.png" />
+    <None Include="Resources\btn_up4.jpg" />
+    <None Include="Resources\btn_ud5.png" />
+    <None Include="Resources\btn_ud6.jpg" />
+    <None Include="Resources\btn_ud7.jpg" />
+    <None Include="Resources\btn_lghv.jpg" />
+    <None Include="bin\Release\PHOENIX.exe" />
+    <None Include="bin\Release\PBPHOENIX.exe" />
+    <None Include="bin\Release\zlib1.dll" />
+    <None Include="Resources\bg_update2.jpg" />
+    <None Include="Resources\back_login2.png" />
+    <Content Include="Resources\PB-Ico.ico" />
+  </ItemGroup>
+  <ItemGroup />
+</Project>

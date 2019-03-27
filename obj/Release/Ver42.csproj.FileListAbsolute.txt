@@ -1,0 +1,62 @@
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Release\PHOENIXLauncher.exe.config
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Release\PHOENIXLauncher.exe
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Release\PHOENIXLauncher.pdb
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Release\KuyRaiHook.dll
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\PointBlank.Launcher.Connection.resources
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\PointBlank.Launcher.Launcher.resources
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\PointBlank.Launcher.Properties.Resources.resources
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\Ver42.csproj.GenerateResource.cache
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\Ver42.csproj.CoreCompileInputs.cache
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\Ver42.csproj.CopyComplete
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\PHOENIXLauncher.exe
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Release\PHOENIXLauncher.pdb
+D:\xampp_\โปรแกรม\New folder\test\bin\Release\PHOENIXLauncher.exe.config
+D:\xampp_\โปรแกรม\New folder\test\bin\Release\PHOENIXLauncher.exe
+D:\xampp_\โปรแกรม\New folder\test\bin\Release\PHOENIXLauncher.pdb
+D:\xampp_\โปรแกรม\New folder\test\bin\Release\KuyRaiHook.dll
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\PointBlank.Launcher.Connection.resources
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\PointBlank.Launcher.Launcher.resources
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\PointBlank.Launcher.Properties.Resources.resources
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\Ver42.csproj.GenerateResource.cache
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\Ver42.csproj.CoreCompileInputs.cache
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\Ver42.csproj.CopyComplete
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\PHOENIXLauncher.exe
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\PHOENIXLauncher.pdb
+D:\xampp_\โปรแกรม\New folder\test\obj\Release\Ver42.csprojAssemblyReference.cache
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.exe.config
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.exe
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.pdb
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\bin\Release\KuyRaiHook.dll
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Connection.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Launcher.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Properties.Resources.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.GenerateResource.cache
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.CoreCompileInputs.cache
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.CopyComplete
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\PHOENIXLauncher.exe
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\obj\Release\PHOENIXLauncher.pdb
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.exe.config
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.exe
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.pdb
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\bin\Release\KuyRaiHook.dll
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Connection.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Launcher.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Properties.Resources.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.GenerateResource.cache
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.CoreCompileInputs.cache
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.CopyComplete
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\PHOENIXLauncher.exe
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher\PB-PHOENIXLauncher\obj\Release\PHOENIXLauncher.pdb
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Connection.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Launcher.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\PointBlank.Launcher.Properties.Resources.resources
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.GenerateResource.cache
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.CoreCompileInputs.cache
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\PHOENIXLauncher.exe
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\PHOENIXLauncher.pdb
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.exe.config
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.exe
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\bin\Release\PHOENIXLauncher.pdb
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\bin\Release\KuyRaiHook.dll
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\Ver42.csproj.CopyComplete
+D:\SRC-PB-Full\Launcher\PB-PHOENIXLauncher-old\PB-PHOENIXLauncher\obj\Release\Ver42.csprojAssemblyReference.cache

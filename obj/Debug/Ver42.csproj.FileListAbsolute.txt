@@ -1,0 +1,50 @@
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\bin\Debug\PBLauncher.exe.config
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\bin\Debug\PBLauncher.exe.manifest
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\bin\Debug\PBLauncher.application
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\bin\Debug\PBLauncher.exe
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\bin\Debug\PBLauncher.pdb
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\bin\Debug\KuyRaiHook.dll
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\bin\Debug\KuyRaiHook.pdb
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\Ver42.csprojResolveAssemblyReference.cache
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PointBlank.Launcher.Connection.resources
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PointBlank.Launcher.Launcher.resources
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PointBlank.Launcher.Properties.Resources.resources
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\Ver42.csproj.GenerateResource.Cache
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PBLauncher.TrustInfo.xml
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PBLauncher.exe.manifest
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PBLauncher.application
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PBLauncher.exe
+D:\Games\Editor(C#)\Source PointBlank Launcher\Ver42\obj\Debug\PBLauncher.pdb
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PointBlank.Launcher.Connection.resources
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PointBlank.Launcher.Launcher.resources
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PointBlank.Launcher.Properties.Resources.resources
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\Ver42.csproj.GenerateResource.cache
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PBLauncher.exe
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PBLauncher.pdb
+D:\xampp_\โปรแกรม\PBLauncher\bin\Debug\PBLauncher.exe.config
+D:\xampp_\โปรแกรม\PBLauncher\bin\Debug\PBLauncher.exe.manifest
+D:\xampp_\โปรแกรม\PBLauncher\bin\Debug\PBLauncher.application
+D:\xampp_\โปรแกรม\PBLauncher\bin\Debug\PBLauncher.exe
+D:\xampp_\โปรแกรม\PBLauncher\bin\Debug\PBLauncher.pdb
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\Ver42.csproj.CoreCompileInputs.cache
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PBLauncher.TrustInfo.xml
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PBLauncher.exe.manifest
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\PBLauncher.application
+D:\xampp_\โปรแกรม\PBLauncher\obj\Debug\Ver42.csproj.CopyComplete
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe.config
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe.manifest
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Debug\PBLauncher.application
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\bin\Debug\PBLauncher.pdb
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PointBlank.Launcher.Connection.resources
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PointBlank.Launcher.Launcher.resources
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PointBlank.Launcher.Properties.Resources.resources
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\Ver42.csproj.GenerateResource.cache
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\Ver42.csproj.CoreCompileInputs.cache
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PBLauncher.TrustInfo.xml
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PBLauncher.exe.manifest
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PBLauncher.application
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\Ver42.csproj.CopyComplete
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PBLauncher.exe
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\PBLauncher.pdb
+D:\xampp_\โปรแกรม\New folder\PBLauncher\PBLauncher\obj\Debug\Ver42.csprojAssemblyReference.cache
